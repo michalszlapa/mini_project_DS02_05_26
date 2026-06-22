@@ -14,5 +14,6 @@ Celem projektu jest oczyszczenie danych, wykonanie analizy eksploracyjnej (EDA) 
 
 ## Target
 
-Jako zmienną docelową planuję wykorzystać kolumnę Performance_Score.
-Chcę sprawdzić, czy na podstawie cech pracownika można przewidzieć jego ocenę.
+Jako zmienną docelową planuję wykorzystać kolumnę Salary.
+
+Celem projektu będzie przewidywanie wynagrodzenia pracownika na podstawie jego cech, takich jak wiek, dział, region, doświadczenie zawodowe oraz ocena pracownika.
